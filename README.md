@@ -22,9 +22,5 @@ To run the notebooks in this repository, you will need:
 * Pandas
 * TensorFlow
 
-## Usage
-
-To start using the notebooks, simply clone or download the repository to your local machine, and then run Jupyter Notebook:
-
 ## Contributing
 If you find any issues or bugs in the notebooks, or if you have any suggestions for improvements, please feel free to open an issue or submit a pull request. Contributions are always welcome!
